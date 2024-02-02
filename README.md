@@ -1,16 +1,17 @@
 <h2 align="left">Hi 👋! My name is Dalbin Mathew and I'm an MCA student at College of Engineering, Trivandrum. In addition, I produce music.</h2>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dalbinmathew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dalbinmathew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dalbinmathew&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </div>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-###
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalbinmathew" alt="dalbinmathew" /></a> </p>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<img align="right" height="150" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"  />
+<img align="center" width="100%" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-286.gif"  />
 
 ###
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -60,7 +61,7 @@
   <a href="mailto:dalbinmathew10@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://www.twitch.tv/dalbinmathew"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" /></a>
   </div>
-
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ###
 
