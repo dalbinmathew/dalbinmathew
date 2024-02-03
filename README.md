@@ -68,11 +68,10 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/dalbinmathew/dalbinmathew/output/snake.svg" alt="Snake animation" />
-
-###
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/dalbinmathew/count.svg?"  />
 </div>
-
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 ###
