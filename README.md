@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalbinmathew" alt="dalbinmathew" /></a> </p>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<img align="center" height="100px" width="100%" src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif"  />
+<img align="center" width="100%" src="https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif"  />
 
 
 ###
@@ -66,8 +66,9 @@
   
   <a href="mailto:dalbinmathew10@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://www.twitch.tv/dalbinmathew"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" /></a>
-  </div>
   <img align="right" height="100px" loading="lazy" src="https://i.pinimg.com/originals/cf/5c/a4/cf5ca44013b0546d7f1c56f04f601c65.gif" />
+  </div>
+  
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ###
@@ -84,5 +85,5 @@
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<img align="center" height="100px" width="100%" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-286.gif"  />
+<img align="center" width="100%" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-286.gif"  />
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
